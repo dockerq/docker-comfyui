@@ -1,5 +1,10 @@
 # ComfyUI deploy by container
 
+## Requisites
+
+- Docker
+- CMake
+
 ## Quick Start
 
 1. clone repo
